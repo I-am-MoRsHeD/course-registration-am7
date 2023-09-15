@@ -1,0 +1,77 @@
+
+
+[
+    {
+      "id": 1,
+      "course_img": "https://i.ibb.co/Gnng0jf/programing.jpg",
+      "course_title": "Introduction to Programming",
+      "course_details": "Learn the basics of programming in this introductory course.",
+      "price": 4900,
+      "credit_hour": 3
+    },
+    {
+      "id": 2,
+      "course_img": "https://i.ibb.co/T4LqHZ6/web-dev.jpg",
+      "course_title": "Web Development Fundamentals",
+      "course_details": "Master the fundamentals of web development, including HTML, CSS, and JavaScript.",
+      "price": 7900,
+      "credit_hour": 4
+    },
+    {
+      "id": 3,
+      "course_img": "https://i.ibb.co/Vppnqjx/data-science.jpg",
+      "course_title": "Data Science Essentials",
+      "course_details": "Explore the essentials of data science, including data analysis and machine learning.",
+      "price": 8900,
+      "credit_hour": 5
+    },
+    {
+      "id": 4,
+      "course_img": "https://i.ibb.co/dGY3JrQ/graphics.jpg",
+      "course_title": "Graphic Design Basics",
+      "course_details": "Get started with graphic design and learn the basics of design principles and software.",
+      "price": 5900,
+      "credit_hour": 3
+    },
+    {
+      "id": 5,
+      "course_img": "https://i.ibb.co/zFFXBYH/marketing.jpg",
+      "course_title": "Digital Marketing Strategies",
+      "course_details": "Learn effective digital marketing strategies and tactics to boost online presence.",
+      "price": 6900,
+      "credit_hour": 4
+    },
+    {
+      "id": 6,
+      "course_img": "https://i.ibb.co/jM5W9K3/python.png",
+      "course_title": "Introduction to Python",
+      "course_details": "Explore the fundamentals of psychology and human behavior.",
+      "price": 4900,
+      "credit_hour": 3
+    },
+    {
+      "id": 7,
+      "course_img": "https://i.ibb.co/xq4tvhw/mysql.jpg",
+      "course_title": "Database(MySQL)",
+      "course_details": "Dive into advanced mathematics topics, including calculus and linear algebra.",
+      "price":6000,
+      "credit_hour": 5
+    },
+    {
+      "id": 8,
+      "course_img": "https://i.ibb.co/wwQZgJc/data-structure.jpg",
+      "course_title": "Data Structure",
+      "course_details": "Learn effective business management strategies and leadership skills.",
+      "price": 7900,
+      "credit_hour": 4
+    },
+    {
+      "id": 9,
+      "course_img": "https://i.ibb.co/7KFwfZf/ai.jpg",
+      "course_title": "Artificial Intelligence Fundamentals",
+      "course_details": "Discover the fundamentals of artificial intelligence and its applications.",
+      "price": 8900,
+      "credit_hour": 5
+    }
+  ]
+  
