@@ -31,7 +31,7 @@ function App() {
 
       const remaining = 20 - total;
       if (total > 20) {
-        return toast('Cannot access')
+        return toast('Your remaining hour is finished')
       }
       else {
         setCredit(total)
