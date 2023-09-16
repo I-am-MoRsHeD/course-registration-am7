@@ -7,7 +7,7 @@ const Card = ({ course ,handleAddToCart}) => {
     // console.log(course)
     const { course_img, course_title, course_details, credit_hour, price } = course;
     return (
-            <div className="card w-full bg-base-300 my-5 shadow-xl">
+            <div className="card w-full bg-base-200 my-5 shadow-xl">
                 <div className="p-3 space-y-3">
                     <figure><img className='rounded-lg' src={course_img} alt="Course-image" /></figure>
                     <h2 className="font-bold text-xl">{course_title}</h2>

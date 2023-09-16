@@ -45,7 +45,7 @@
       "id": 6,
       "course_img": "https://i.ibb.co/jM5W9K3/python.png",
       "course_title": "Introduction to Python",
-      "course_details": "Explore the fundamentals of psychology and human behavior.",
+      "course_details": "Introduction to Python Programming: Building a Strong Foundation for Beginners and Aspiring Developers.",
       "price": 4900,
       "credit_hour": 3
     },
@@ -53,7 +53,7 @@
       "id": 7,
       "course_img": "https://i.ibb.co/xq4tvhw/mysql.jpg",
       "course_title": "Database(MySQL)",
-      "course_details": "Dive into advanced mathematics topics, including calculus and linear algebra.",
+      "course_details": "Master MySQL Database Management: From Basics to Advanced Techniques.",
       "price":6000,
       "credit_hour": 5
     },
@@ -61,7 +61,7 @@
       "id": 8,
       "course_img": "https://i.ibb.co/wwQZgJc/data-structure.jpg",
       "course_title": "Data Structure",
-      "course_details": "Learn effective business management strategies and leadership skills.",
+      "course_details": "Master the fundamentals of data sturcturing and tactics to master in structuring.",
       "price": 7900,
       "credit_hour": 4
     },

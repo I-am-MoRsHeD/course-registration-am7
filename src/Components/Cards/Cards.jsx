@@ -14,7 +14,7 @@ const Cards = ({handleAddToCart}) => {
     }, [])
     return (
         <div className='w-3/4'>
-            <h3>Data: {course.length}</h3>
+
             <div className='grid grid-cols-3 gap-2'>
                 {
                     course.map(course => <Card
