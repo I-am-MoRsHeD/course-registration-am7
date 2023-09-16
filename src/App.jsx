@@ -4,6 +4,8 @@ import './App.css'
 import Cards from './Components/Cards/Cards'
 import Header from './Components/Header/Header'
 import Carts from './Components/Carts/Carts';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
 
@@ -18,7 +20,7 @@ function App() {
     let totalPrice = data.price;
     const isExist = title.find(item => item.id == data.id)
     if (isExist) {
-      return alert('Already Exist here')
+      return toast('Already Exist here')
     }
     else {
 
@@ -29,9 +31,7 @@ function App() {
 
       const remaining = 20 - total;
       if (total > 20) {
-        return (`<div className="alert alert-success">
-                          <span>Message sent successfully.</span>
-                      </div>`)
+        return toast('Cannot access')
       }
       else {
         setCredit(total)
@@ -56,6 +56,7 @@ function App() {
         <Cards
           handleAddToCart={handleAddToCart}
         ></Cards>
+        <ToastContainer/>
         <Carts
           title={title}
           credit={credit}
